@@ -1,3 +1,5 @@
+#A Blackjack game in which you can play against a robot where aces are worth 1.
+
 import random
 
 bot_total = 0
